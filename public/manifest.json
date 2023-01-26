@@ -1,0 +1,40 @@
+{
+    "name": "Franklin' Portfolio Website",
+    "short_name": "Franklin ",
+    "start_url": "index.html?utm_source=homescreen",
+    "icons":[
+      {
+
+        "src":"assets/icon/16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+
+      {
+        "src":"assets/icon/20.png",
+        "sizes": "20x20",
+        "type": "image/png"
+      },
+      {
+        "src":"assets/icon/29.png",
+        "sizes": "29x29",
+        "type": "image/png"
+      },
+      {
+        "src":"assets/icon/32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src":"assets/icon/launchericon-144-144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+     
+    ],
+    "theme_color": "Black",
+    "background_color": "#0000FF",
+    "display": "standalone"
+  
+  }
+
